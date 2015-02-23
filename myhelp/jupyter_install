@@ -1,3 +1,5 @@
+#from: https://github.com/jupyter/jupyterhub/issues/69
+
 Thanks @dsblank - here is the process I followed to successfully launch jupyterhub on a clean Ubunto 14.04 server:
 
 sudo apt-get install git
